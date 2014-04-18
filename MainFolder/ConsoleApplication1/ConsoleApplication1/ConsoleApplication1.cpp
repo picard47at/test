@@ -9,6 +9,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	int a = 0;
 	int b = 0;
 	int c = 0;
+
+	int d = 0;
 	return 0;
 }
 
