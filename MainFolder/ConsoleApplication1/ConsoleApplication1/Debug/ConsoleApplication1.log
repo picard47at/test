@@ -1,16 +1,25 @@
+<<<<<<< HEAD
 ﻿Build started 4/18/2014 6:22:13 PM.
      1>Project "D:\Git\MainFolder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Rebuild target(s)).
+=======
+﻿Build started 4/18/2014 6:12:35 PM.
+     1>Project "D:\Git2\Git\MainFolder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Rebuild target(s)).
+>>>>>>> 307e1b93640dbc2c27ad8d853a58eb7f4c9446db
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
          stdafx.cpp
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication1.cpp
          ConsoleApplication1.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Git\MainFolder\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Git\MainFolder\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Git\MainFolder\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\ConsoleApplication1.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Git2\Git\MainFolder\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Git2\Git\MainFolder\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Git2\Git\MainFolder\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\ConsoleApplication1.obj
          Debug\stdafx.obj
-         ConsoleApplication1.vcxproj -> D:\Git\MainFolder\ConsoleApplication1\Debug\ConsoleApplication1.exe
-     1>Done Building Project "D:\Git\MainFolder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Rebuild target(s)).
+         ConsoleApplication1.vcxproj -> D:\Git2\Git\MainFolder\ConsoleApplication1\Debug\ConsoleApplication1.exe
+     1>Done Building Project "D:\Git2\Git\MainFolder\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" (Rebuild target(s)).
 
 Build succeeded.
 
+<<<<<<< HEAD
 Time Elapsed 00:00:00.53
+=======
+Time Elapsed 00:00:00.46
+>>>>>>> 307e1b93640dbc2c27ad8d853a58eb7f4c9446db
